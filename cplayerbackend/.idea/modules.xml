@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CPlayerServer/CPlayerServer.iml" filepath="$PROJECT_DIR$/CPlayerServer/CPlayerServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CPlayer_Favourite_Recommend/CPlayer_Favourite_Recommend.iml" filepath="$PROJECT_DIR$/CPlayer_Favourite_Recommend/CPlayer_Favourite_Recommend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cplayerbackend.iml" filepath="$PROJECT_DIR$/.idea/cplayerbackend.iml" />
+    </modules>
+  </component>
+</project>

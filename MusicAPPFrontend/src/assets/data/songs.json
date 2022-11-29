@@ -1,0 +1,55 @@
+[  {
+    "Title" : "Song Name",
+    "SungBY": "descripion1" ,
+    "active": true,
+     "image": "assets/img/arijit.webp"
+     },
+{
+        "Title" : "Song Name",
+        "SungBY": "descripion1" ,
+        "active": true,
+         "image": "assets/img/arijit.webp",
+         "url" : "assets/audioFiles/Hawayein.mp3"
+         },
+         {
+            "Title" : " Hawayein",
+            "SungBY": "Arijit" ,
+            "active": true,
+             "image": "assets/img/arijit.webp",
+             "url" : "assets/audioFiles/Hawayein.mp3"
+             },
+             {
+                "Title" : "Song Name",
+                "SungBY": "descripion1" ,
+                "active": true,
+                 "image": "assets/img/arijit2.jpg",
+                  "url" : "assets/audioFiles/Hawayein.mp3"
+                 },
+                 {
+                  "Title" : "Song Name",
+                  "SungBY": "descripion1" ,
+                  "active": true,
+                   "image": "assets/img/arijit2.jpg"
+                   },
+              {
+                      "Title" : "Song Name",
+                      "SungBY": "descripion1" ,
+                      "active": true,
+                       "image": "assets/img/arijit2.jpg"
+                       },
+                       {
+                          "Title" : "Song Name",
+                          "SungBY": "descripion1" ,
+                          "active": true,
+                           "image": "assets/img/arijit2.jpg"
+                           },
+                           {
+                              "Title" : "Song Name",
+                              "SungBY": "descripion1" ,
+                              "active": true,
+                               "image": "assets/img/arijit2.jpg"
+                               }
+            
+               ]
+ 
+      

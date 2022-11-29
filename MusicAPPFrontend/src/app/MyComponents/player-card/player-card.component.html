@@ -1,0 +1,23 @@
+  
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3"*ngFor=" let song of songs" >
+          <div class="card my-2" style="width: 18rem;">
+                <img src="{{song.image}}"class="card-img-top" alt="...">
+                <div class="card-body">
+                  <div class="center border border-4 border-dark rounded-pill mb-2" >
+                    <span id="boot-icon" class="bi bi-play ms-5" style="font-size: 30px;" (click)="playSong(song.url)"></span>
+                    <span id="boot-icon" class="bi bi-pause ms-4" style="font-size: 30px;" (click)="pauseSong(song.url)"></span>
+                    <span id="boot-icon" class="bi bi-stop-fill mb-2 ms-4" style="font-size: 30px;"(click)="stopSong(song.url)"></span>
+                  </div>
+                  <span class ="col-md-3 mt-2"><h3 class="card-title ">Song Name:   {{song.Title}}</h3></span>
+                  <span class ="col-md-3"><h3 class="card-title ">Artist:  {{song.SungBY}}</h3></span>
+                  <button type="button" class="btn border border-3 border-dark btn-outline-dark rounded-pill btn-sm mx-2" data-mdb-ripple-color="dark"(click)="addToFav(song)">Favourite +</button>
+                  <button type="button" class="btn border border-3 border-dark btn-outline-dark rounded-pill btn-sm mx-2" data-mdb-ripple-color="dark"(click)="addToRecommend(song)">Recommend</button>
+
+              </div>
+       </div>
+    </div>
+  </div>
+  
+
